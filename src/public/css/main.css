@@ -6,8 +6,8 @@ body{
 }
 
 #map-template {
-    height: 50%;
-    width: 50%;
+    height:100%;
+    width: 100%;
     top:0;
     position: absolute;
     
